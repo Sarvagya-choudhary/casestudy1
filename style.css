@@ -1,0 +1,43 @@
+#googlelensimg {
+    width: 100px;
+}
+.testimg_bottle{
+    background-color: gray;
+    border-radius: 50px;
+}
+.bottleimg_responsive{
+    width: 500;
+    border-radius: 20px;
+}
+.testimg_book{
+    background-color: gray;
+    border-radius: 50px;
+}
+.bookimg_responsive{
+    width: 500;
+    border-radius: 20px;
+}
+.testimg_watch{
+    background-color: gray;
+    border-radius: 50px;
+}
+.watchimg_responsive{
+    width: 500;
+    border-radius: 20px;
+}
+.testimg_cap{
+    background-color: gray;
+    border-radius: 50px;
+}
+.capimg_responsive{
+    width: 500;
+    border-radius: 20px;
+}
+.testimg_laptop{
+    background-color: gray;
+    border-radius: 50px;
+}
+.laptopimg_responsive{
+    width: 500;
+    border-radius: 20px;
+}
